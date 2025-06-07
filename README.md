@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 🌱 I have currently finished learning basics of some languages like C and Java and indulged in implementations of some elementary algorithms and data structures.
 I hope to find myself a place in the open source community and learn from some amazing projects and people.
 
-📫 How to reach me: The easiest way would be to drop me a DM in any of my social handles but I wouldn't mind an email either.
+📫 How to reach me: The easiest way would be to drop me an email but I wouldn't mind a DM in any of my social handles either.
