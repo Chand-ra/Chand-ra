@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 😄 I am an undergraduate Mathematics student at SVNIT, Surat, India with a passion for everything tech! I love geeking out about new technologies and discovering the ingenuity of old ones.
 
-🌱 I have currently finished learning basics of some languages like C and Java and indulged in implementations of some elementary algorithms and data structures.
-I hope to find myself a place in the open source community and learn from some amazing projects and people.
+🔭 I am currently working on improving the fuzz suite for Core Lightning, an implementation of Bitcoin's Lightning-Network in C.
 
 📫 How to reach me: The easiest way would be to drop me an email but I wouldn't mind a DM in any of my social handles either.
