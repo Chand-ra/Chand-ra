@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I am an undergraduate Mathematics student at SVNIT, Surat, India with a passion for everything tech! I love geeking out about new technologies and discovering the ingenuity of old ones.
+😄 I am an grad Mathematics student at SVNIT, Surat, India with a passion for everything tech! I love geeking out about new technologies and discovering the ingenuity of old ones.
 
-🔭 I am currently working on improving the fuzz suite for Core Lightning, an implementation of Bitcoin's Lightning-Network in C.
+🔭 I am currently working on Smite: a snapshot fuzzing framework for Bitcoin's Lightning Network.
 
 📫 How to reach me: The easiest way would be to drop me an email but I wouldn't mind a DM in any of my social handles either.
